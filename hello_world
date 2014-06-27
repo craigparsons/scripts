@@ -3,3 +3,5 @@
 # This is our first scripts.
 
 echo  'Hello World!'
+
+echo 'Hello World' # This is a comment too
